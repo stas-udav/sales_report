@@ -2,7 +2,7 @@
 import json
 import locale
 import sys
-from reports import generate as report
+from reports import generate as report #using library from reports
 from emails import generate as email_generate
 from emails import send as email_send
 
